@@ -5,14 +5,14 @@ The Syncfusion .NET PDF Library allows you to create, edit, and modify PDF docum
 
  Sample name | Description
 ------|------
-[Create simple PDF table](https://github.com/SyncfusionExamples/pdf-table-creation/create-simple-pdf-table) |  This sample demonstrates how to create a basic table in a PDF document using C#. 
- [Creating a table from a data source](https://github.com/SyncfusionExamples/pdf-table-creation/) | This sample shows how to generate a table in a PDF document directly from a data source. 
-[Adding multiple tables to a PDF document](https://github.com/SyncfusionExamples/pdf-table-creation/adding-multiple-tables-to-a-pdf) |This sample illustrates how to insert multiple tables into a single PDF document using C#. It demonstrates how to position and style each table independently, allowing for complex layouts within your PDF file.
-[Creating nested tables](https://github.com/SyncfusionExamples/pdf-table-creation/create-netsted-tables-in-a-pdf) | This sample demonstrates how to create nested tables in a PDF document using C#.
-[Customizing cells, rows, columns, and tables](https://github.com/SyncfusionExamples/pdf-table-creation/customizing-table-cell-row-and-column) | This sample provides examples of how to customize individual cells, rows, columns, and entire tables in a PDF document.
-[Paginating table across multiple pages](https://github.com/SyncfusionExamples/pdf-table-creation/paginating-table-across-multiple-pages) | This sample explains how to paginate a large table across multiple pages in a PDF document. It covers techniques for automatically breaking tables at page boundaries while preserving headers and maintaining a consistent layout throughout the document.
-[Adding built-in table styles](https://github.com/SyncfusionExamples/pdf-table-creation/adding-built-in-table-styles) | This sample demonstrates how to apply built-in table styles to enhance the appearance of tables in a PDF document. It shows how to use predefined styles to quickly format tables with professional and consistent design elements.
-[Adding different elements in a PDF cell](https://github.com/SyncfusionExamples/pdf-table-creation/adding-different-elements-in-grid-cell) | This sample showcases how to add various elements, such as text, images, and more elements, within a single PDF table cell.
+[Create simple PDF table](https://github.com/SyncfusionExamples/pdf-table-creation/tree/master/create-simple-pdf-table) |  This sample demonstrates how to create a basic table in a PDF document using C#. 
+ [Creating a table from a data source](https://github.com/SyncfusionExamples/pdf-table-creation/tree/master/create-table-from-data-source) | This sample shows how to generate a table in a PDF document directly from a data source. 
+[Adding multiple tables to a PDF document](https://github.com/SyncfusionExamples/pdf-table-creation/tree/master/adding-multiple-tables-to-a-pdf) |This sample illustrates how to insert multiple tables into a single PDF document using C#.
+[Creating nested tables](https://github.com/SyncfusionExamples/pdf-table-creation/tree/master/create-netsted-tables-in-a-pdf) | This sample demonstrates how to create nested tables in a PDF document using C#.
+[Customizing cells, rows, columns, and tables](https://github.com/SyncfusionExamples/pdf-table-creation/tree/master/customizing-table-cell-row-and-column) | This sample provides examples of how to customize individual cells, rows, columns, and entire tables in a PDF document.
+[Paginating table across multiple pages](https://github.com/SyncfusionExamples/pdf-table-creation/tree/master/paginating-table-across-multiple-pages) | This sample explains how to paginate a large table across multiple pages in a PDF document.
+[Adding built-in table styles](https://github.com/SyncfusionExamples/pdf-table-creation/tree/master/adding-built-in-table-styles) | This sample demonstrates how to apply built-in table styles to enhance the appearance of tables in a PDF document.
+[Adding different elements in a PDF cell](https://github.com/SyncfusionExamples/pdf-table-creation/tree/master/adding-different-elements-in-grid-cell) | This sample showcases how to add various elements, such as text, images, and more elements, within a single PDF table cell.
 
 # How to run the examples
 * Download this project to a location in your disk. 
