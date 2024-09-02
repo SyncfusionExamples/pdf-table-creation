@@ -1,6 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
-//Create a PDF document
 using Syncfusion.Pdf.Grid;
 using Syncfusion.Pdf;
 using Syncfusion.Drawing;
